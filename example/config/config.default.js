@@ -11,6 +11,10 @@ exports.io = {
       packetMiddleware: [],
     },
   },
+  redis: {
+    host: 'localhost',
+    port: 6379,
+  },
 };
 
 exports.keys = '123';

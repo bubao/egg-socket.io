@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "egg-bin dev --cluster --sticky"
+    "start": "egg-bin dev --sticky"
   },
   "dependencies": {
     "egg": "^2.0.0",
